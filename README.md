@@ -1,9 +1,9 @@
 # Alarm_Clock
 
 ***********Use the code***************
-# HTML
-# CSS
-# JAVASCRIPT
+HTML
+CSS
+JAVASCRIPT
 
 #functions
 1. we use a small page of alarm clock.
